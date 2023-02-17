@@ -1,5 +1,5 @@
 
-![logo](https://github.com/mumal885/Speed-calculator/blob/main/Text%20converter.png)
+![logo](https://github.com/mumal885/Email-Validation-in-Python/blob/main/email.jpg)
 # Email-Validation-in-Python
 This Email-Validation is coded in python.
 
